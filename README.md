@@ -4,7 +4,7 @@
   <p>Artificial Intelligence · Software Development · Systems</p>
   <p>
     <img src="https://img.shields.io/badge/FAST--NUCES-BSCS-0E75B6?style=flat-square" alt="BSCS at FAST-NUCES" />
-    <img src="https://img.shields.io/badge/Available%20for-Internships-2ea44f?style=flat-square" alt="Open to internships" />
+    <img src="https://img.shields.io/badge/Available%20for-Internships-2ea44f?style=flat-square" alt="Open to Jobs" />
   </p>
 </div>
 
