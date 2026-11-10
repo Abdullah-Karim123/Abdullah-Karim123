@@ -44,4 +44,4 @@ A multi-process document editor demonstrating reader-writer synchronization and 
 
 ---
 
-<p align="center"><strong>Open to software engineering and AI internships</strong></p>
+<p align="center"><strong>Open to software engineering and AI Jobs</strong></p>
